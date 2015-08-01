@@ -31,5 +31,5 @@
 
 # Age Discrimination : [50+ EEOA]
 
-* (Q):
+* (Q): Who does age discrimination harm directly within the U.S. citizen population?
 * (A): More than 20 million Americans age 50 and older to not have adequate income to meet their basic needs. AARP is working to address this issue, especially for elder-woman who are more vulnerable to falling into poverty than Veterans or Servicemen-Retirement Planners.
